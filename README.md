@@ -34,7 +34,6 @@ Upon completion, the script generates two high-resolution PNG figures in the wor
 - `fig2_rademacher_shrinkage.png`
 
 ---
-
 ## Repository Structure
 
 ```text
